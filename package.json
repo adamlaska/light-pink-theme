@@ -3,7 +3,7 @@
 	"displayName": "Light Pink Theme",
 	"publisher": "mgwg",
 	"description": "A simple light pink theme.",
-	"version": "0.0.1",
+	"version": "0.4.0",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
@@ -25,6 +25,11 @@
 				"label": "Light Pink",
 				"uiTheme": "vs",
 				"path": "./themes/Light Pink-color-theme.json"
+			},
+			{
+				"label": "Dark Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Pink-color-theme.json"
 			}
 		]
 	},
